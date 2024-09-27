@@ -4,26 +4,36 @@
    - This word cloud visualization shows the most significant factors affecting respondents' mental health, with larger words representing more frequent responses.
    ![image](https://github.com/user-attachments/assets/95acb022-a10c-4b10-91a5-38cb2204c135)
 
+**Conclusion**: Emotional factors and social influences were identified as the leading contributors to mental health issues.
+
 2. **Mental Health Disorders Experienced** (`mental_health_disorders_experienced.png`)
    - This bar chart lists the types of mental health disorders respondents have experienced, such as depression and anxiety.
  
    ![image](https://github.com/user-attachments/assets/ba060924-23fc-4eda-90ab-4b3eb54cbe98)
+
+ **Conclusion**: Depression and anxiety are the most common mental health disorders among respondents.
 
 3. **Pareto for Serious Causes of Mental Health Issues** (`pareto_serious_causes.png`)
    - This Pareto chart identifies the most serious causes of mental health issues, showing that a few factors account for the majority of issues.
    - The percentage line meets the first three factors at 80%, which means these three factors are the most serious causes of mental health.
    ![image](https://github.com/user-attachments/assets/c26a3d7d-1558-44cb-ac28-c046d4e925b6)
 
+**Conclusion**: Career decisions, emotional issues, and major life events are the top three most serious causes of mental health problems, contributing to over 80% of the cases.
+
 4. **Pareto for Powerful Effects of Mental Health Issues** (`pareto_effects_of_mental_health.png`)
    - This Pareto chart highlights the most significant effects of mental health issues, with the top four factors accounting for 70% of the effects.
    - The percentage line meets the first four effects at 70%, meaning these four factors are the most significant effects of mental health issues.
    ![image](https://github.com/user-attachments/assets/2735c794-2cba-468f-9f29-62207b9be511)
+
+**Conclusion**: The most powerful effects of mental health issues include feeling sad, low self-esteem, and a loss of interest in activities, which account for 70% of the observed impacts.
 
 5. **Measures Taken to Improve Mental Health** (`measures_improving_mental_health.png`)
    - This bar chart illustrates the various measures respondents took to improve their mental health, such as therapy, medication, and yoga.
  
    ![image](https://github.com/user-attachments/assets/df96f608-ccc2-41f4-861f-34faff89e9ab)
    ![image](https://github.com/user-attachments/assets/2a6afa07-9fd1-497e-8004-a731ee80fe53)
+
+**Conclusion**: Talking about feelings, taking breaks, and participating in nature activities were the most commonly reported effective measures for improving mental health.
 
 6. **Count of Have you ever experienced any mental health issue?**
    ![image](https://github.com/user-attachments/assets/1fb9566e-077a-4c1c-acc4-dba0215a677c)
