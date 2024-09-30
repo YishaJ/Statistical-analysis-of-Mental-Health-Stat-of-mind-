@@ -54,8 +54,17 @@ Mental health remains a crucial but often overlooked issue. This project undersc
 - Encourage protective measures like mindfulness, therapy, and breaks from routine.
 
 ## Repository Structure
-- `README.md`: This documentation on how the analysis was conducted.
-- `Questionnaire/`: Full questionnaire used for data collection.
-- `Raw Data/`: Includes the raw data collected from the survey.
-- `Statistical Code/`: Contains the code used for the analysis.
-- `Graphical Results/`: Charts, graphs, and tables generated from the data analysis.
+
+- `README.md`: Overview and documentation of the entire project.
+- `data.csv`: Dataset used for the analysis.
+- `questionnaire.md`: Full questionnaire used for data collection.
+- `Code/`:
+- - `Logistic regression.md`: Code and explanation for the logistic regression model.
+- - `Statistical analysis.md`: Detailed steps and code for statistical analysis.
+- - `Proportion test.md`: Proportion test code and analysis.
+- `Results/`
+- - `Data Visualizations.md`: Charts and visual representations of the data.
+- - `Logistic regression.md`: Results and interpretation from logistic regression.
+- - `Proportion Tests.md`: Results of the proportion tests.
+- - `Survey Summary and Key Findings.md`: Summary of survey results and important findings.
+- `PPT Mental health.pdf`: Project presentation summarizing the analysis and conclusions.
